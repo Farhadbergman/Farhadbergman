@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Farhad Ramezani 
-- 👀 I’m interested in Business Management, Mahine learning business analysis
-- Systems Engineering
+- 👀 I’m interested in Business Management, Mahine learning and business analysis
 - 🌱 I’m currently learning Model-Based Systems Engineering
 Advanced Manufacturing Processes
 I’m looking to collaborate on Business Management and customer analysis and business analysis
